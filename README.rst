@@ -20,11 +20,11 @@ Tornado_. And it's actually a port of Python's smtpd_ module.
    :target: https://coveralls.io/r/puentesarrin/bonzo
    :alt: Coveralls status
 
-.. image:: https://pypip.in/v/bonzo/badge.png
+.. image:: https://img.shields.io/pypi/v/bonzo.svg
    :target: https://pypi.python.org/pypi/bonzo
    :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/bonzo/badge.png
+.. image:: https://img.shields.io/pypi/dm/bonzo.svg
    :target: https://pypi.python.org/pypi/bonzo
    :alt: Number of PyPI downloads
 
